@@ -13,7 +13,8 @@ Ce dépôt accompagne la présentation donnée en lycée. Tu y trouveras la pré
 
 | Fichier | Contenu |
 |---|---|
-| [`presentation.pdf`](presentation.pdf) | La présentation (48 diapositives) |
+| [`presentation.pptx`](presentation.pptx) | La présentation PowerPoint avec ses animations vidéo (48 diapositives) — à télécharger |
+| [`presentation.pdf`](presentation.pdf) | La même présentation en PDF, lisible directement dans le navigateur (images fixes à la place des vidéos) |
 | [`rapport_technique.pdf`](rapport_technique.pdf) | Le rapport détaillé : démonstrations, calculs, figures, références |
 | [`maths_au_service_du_coeur.ipynb`](maths_au_service_du_coeur.ipynb) | Le notebook Python qui refait tous les calculs et toutes les figures |
 | [`data/theoph.csv`](data/) | Les vraies mesures de concentration d'un médicament (théophylline), avec leur source |
