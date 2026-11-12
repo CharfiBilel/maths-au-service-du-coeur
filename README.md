@@ -5,7 +5,7 @@ Fête de la Science 2026 (Youth for Science Foundation), intervention en lycée.
 
 > *« Derrière chaque battement réparé, il y a une équation. »*
 
-Ce dépôt accompagne la présentation donnée en lycée. Tu y trouveras la présentation, un rapport détaillé, les vraies données utilisées et tout le code Python qui recalcule chaque nombre et chaque figure.
+Ce dépôt accompagne la présentation donnée en lycée. Tu y trouveras la présentation, un document détaillé, les vraies données utilisées et tout le code Python qui recalcule chaque nombre et chaque figure.
 
 ---
 
@@ -14,8 +14,7 @@ Ce dépôt accompagne la présentation donnée en lycée. Tu y trouveras la pré
 | Fichier | Contenu |
 |---|---|
 | [`presentation.pptx`](presentation.pptx) | La présentation PowerPoint avec ses animations vidéo (48 diapositives) — à télécharger |
-| [`presentation.pdf`](presentation.pdf) | La même présentation en PDF, lisible directement dans le navigateur (images fixes à la place des vidéos) |
-| [`rapport_technique.pdf`](rapport_technique.pdf) | Le rapport détaillé : démonstrations, calculs, figures, références |
+| [`maths_au_service_du_coeur.pdf`](maths_au_service_du_coeur.pdf) | Le document détaillé : démonstrations, calculs, figures, références |
 | [`maths_au_service_du_coeur.ipynb`](maths_au_service_du_coeur.ipynb) | Le notebook Python qui refait tous les calculs et toutes les figures |
 | [`data/theoph.csv`](data/) | Les vraies mesures de concentration d'un médicament (théophylline), avec leur source |
 
@@ -69,7 +68,7 @@ Puis *Run All*. Les figures s'affichent dans le notebook et sont aussi enregistr
 4. Brevet US 9 510 960, « Deformable lumen support devices and methods of use » ; FDA (2021), Svelte DES, dossier P210014.
 5. Raissi M., Perdikaris P., Karniadakis G. E. (2019). Physics-informed neural networks. *Journal of Computational Physics*, 378, 686-707.
 
-La liste complète est dans le rapport.
+La liste complète est dans le document `maths_au_service_du_coeur.pdf`.
 
 ## Licence
 
